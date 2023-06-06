@@ -30,3 +30,11 @@ Leia os comentários no código-fonte para entender melhor o funcionamento de ca
 
 link para o tinkercad:
 https://www.tinkercad.com/things/3ivaMJLiA4p
+
+integrantes:
+Aksel Viktor Caminha Rae RM: 99011
+Gustavo Fernandes Gonzalez Magalhães RM: 98943
+Raí Gumieri dos Santos RM: 98287
+Sarah Ribeiro da Silva RM: 97747
+Ian Xavier Kuaroka RM: 98860
+
